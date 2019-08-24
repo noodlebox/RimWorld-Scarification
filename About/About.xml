@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>Scarification</name>
+    <author>noodlebox</author>
+    <supportedVersions>
+        <li>1.0</li>
+    </supportedVersions>
+    <description>This mod adds ritual scarring and tattoos as a neolithic form of body modification.</description>
+</ModMetaData>
