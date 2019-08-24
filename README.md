@@ -33,3 +33,6 @@ These procedures are painful and require some time to heal before bonuses appear
 - #### Scarified
   - five days after procedure is finished, permanent
   - +2% Pain Shock Threshold (10% total, if applied to both arms, both legs, and torso)
+
+## Links
+[Steam workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1843703940)
